@@ -1,0 +1,57 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Clientes.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Facturar.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Stock.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Proveedor.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Proveedor.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Proveedor.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Stock.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Stock.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Facturar.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Facturar.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Clientes.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\Clientes.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\CppCLR_WinFormsProject.cpp(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\CppCLR_WinFormsProject.cpp(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\CppCLR_WinFormsProject.cpp(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\CppCLR_WinFormsProject.cpp(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\CppCLR_WinFormsProject.cpp(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\CppCLR_WinFormsProject.cpp(8,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Facturacion C++.vcxproj -> C:\Users\Franc\source\repos\Facturacion C++\x64\Debug\Facturacion C++.exe

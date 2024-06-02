@@ -1,0 +1,8 @@
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\x64\Debug\Facturacion C++.vcxproj.AssemblyReference.cache
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\x64\Debug\Facturacion C++.vcxproj.GenerateResource.cache
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\x64\Debug\Facturacion_C__.Log.resources
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\x64\Debug\Facturacion_C__.Registro.resources
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\x64\Debug\Facturacion_C__.Clientes.resources
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\x64\Debug\Facturacion_C__.Facturar.resources
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\x64\Debug\Facturacion_C__.Proveedor.resources
+C:\Users\Franc\source\repos\Facturacion C++\Facturacion C++\x64\Debug\Facturacion_C__.Stock.resources

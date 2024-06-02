@@ -1,0 +1,120 @@
+  Facturacion_C__.Clientes.resources - Embedded, ContainedInManifestFile, 
+  Facturacion_C__.Facturar.resources - Embedded, ContainedInManifestFile, 
+  Facturacion_C__.Log.resources - Embedded, ContainedInManifestFile, 
+  Facturacion_C__.Proveedor.resources - Embedded, ContainedInManifestFile, 
+  Facturacion_C__.Registro.resources - Embedded, ContainedInManifestFile, 
+  Facturacion_C__.Stock.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Facturacion C++, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CppCLRWinFormsProject.Proveedor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button facturarButton : Public
+    System.Windows.Forms.Button stockButton : Public
+    System.Windows.Forms.Button clientesButton : Public
+    System.Windows.Forms.Button guardarButton : Public
+    System.Windows.Forms.Button modificarButton : Public
+    System.Windows.Forms.Button eliminarButton : Public
+    System.Windows.Forms.TextBox idProveedorText : Public
+    System.Windows.Forms.TextBox nombreText : Public
+    System.Windows.Forms.TextBox cuitCuilText : Public
+    System.Windows.Forms.TextBox telefonoText : Public
+    System.Windows.Forms.TextBox domicilioText : Public
+    System.Windows.Forms.TextBox correoText : Public
+    System.Windows.Forms.DataGridView dataGridProveedor : Public
+Class CppCLRWinFormsProject.Stock: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button facturarButton : Public
+    System.Windows.Forms.Button clientesButton : Public
+    System.Windows.Forms.Button proveedorButton : Public
+    System.Windows.Forms.Button guardarButton : Public
+    System.Windows.Forms.Button modificarButton : Public
+    System.Windows.Forms.Button eliminarButton : Public
+    System.Windows.Forms.TextBox idProductoText : Public
+    System.Windows.Forms.TextBox descripcionText : Public
+    System.Windows.Forms.TextBox precioText : Public
+    System.Windows.Forms.TextBox cantidadText : Public
+    System.Windows.Forms.DataGridView dataGridStock : Public
+Class CppCLRWinFormsProject.Facturar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button stockButton : Public
+    System.Windows.Forms.Button clientesButton : Public
+    System.Windows.Forms.Button proveedorButton : Public
+    System.Windows.Forms.Button guardarButton : Public
+    System.Windows.Forms.Button modificarButton : Public
+    System.Windows.Forms.Button eliminarButton : Public
+    System.Windows.Forms.Button calcularButton : Public
+    System.Windows.Forms.TextBox idClienteText : Public
+    System.Windows.Forms.TextBox nombreText : Public
+    System.Windows.Forms.TextBox apellidoText : Public
+    System.Windows.Forms.TextBox idProductoText : Public
+    System.Windows.Forms.TextBox descripcionText : Public
+    System.Windows.Forms.TextBox precioText : Public
+    System.Windows.Forms.TextBox cantidadText : Public
+    System.Windows.Forms.TextBox subtotalText : Public
+    System.Windows.Forms.TextBox descuentoText : Public
+    System.Windows.Forms.TextBox totalText : Public
+    System.Windows.Forms.TextBox dniText : Public
+    System.Windows.Forms.Button aplicarbutton : Public
+    System.Windows.Forms.DataGridView dataGridFacturar : Public
+Class CppCLRWinFormsProject.Clientes: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button facturarButton : Public
+    System.Windows.Forms.Button stockButton : Public
+    System.Windows.Forms.Button proveedorButton : Public
+    System.Windows.Forms.Button guardarButton : Public
+    System.Windows.Forms.Button modificarButton : Public
+    System.Windows.Forms.Button eliminarButton : Public
+    System.Windows.Forms.TextBox idClienteText : Public
+    System.Windows.Forms.TextBox nombreText : Public
+    System.Windows.Forms.TextBox apellidoText : Public
+    System.Windows.Forms.TextBox dniText : Public
+    System.Windows.Forms.TextBox telefonoText : Public
+    System.Windows.Forms.TextBox domicilioText : Public
+    System.Windows.Forms.TextBox correoText : Public
+    System.Windows.Forms.DataGridView dataGridClientes : Public
+Class CppCLRWinFormsProject.Registro: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox nombreText : Public
+    System.Windows.Forms.TextBox apellidoText : Public
+    System.Windows.Forms.TextBox legajoText : Public
+    System.Windows.Forms.TextBox passwordText : Public
+    System.Windows.Forms.TextBox correoText : Public
+    System.Windows.Forms.TextBox sectorText : Public
+    System.Windows.Forms.Button regresarButton : Public
+    System.Windows.Forms.Button registrarButton : Public
+Class CppCLRWinFormsProject.Log: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button ingresarButton : Public
+    System.Windows.Forms.Button registrarButton : Public
+    System.Windows.Forms.TextBox usuarioText : Public
+    System.Windows.Forms.TextBox passwordText : Public
+Class Usuario: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getLegajo(): PrivateScope, Public, HideBySig
+    getPassword(): PrivateScope, Public, HideBySig
